@@ -1,0 +1,2 @@
+# U-Net-architecture-with-VGG19-encoder
+In the code below we have created a new model using U-Net++ architecture. The experiment is based on the U-Net++ architecture or Nested U-Net architecture added with the latest Vgg19 encoder. In this model we have also applied efficient-net with DenseNet of original U-Net++ with VGG16 encoder. We have calculated the dice score and IoU loss functions compared them with the original U-Net++ architecture and examined the encoder.
